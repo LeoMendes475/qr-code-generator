@@ -9,4 +9,6 @@ Ao escanear o QR code, o usuário será direcionado para uma página com todas a
 
 Este sistema é especialmente útil para pessoas que estão em busca de oportunidades profissionais ou que desejam expandir sua rede de contatos. Com apenas um código, você pode compartilhar todas as suas informações importantes de forma simples e eficaz.
 
+Link do projeto no ar: https://qr-code-generator-front-end.vercel.app/
+
 O sistema foi criado com React.js, Node.js e MySQL
